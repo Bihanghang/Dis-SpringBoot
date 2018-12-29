@@ -1,5 +1,5 @@
 # SpringCloud+SpringBoot的练习
-
+```shell
 ├── dis-order                                     // order app                         
 │   ├── src/main
 │   ├── ├──java/com/bihang/order         // Specific code.
@@ -12,7 +12,7 @@
 │   ├── src/main
 │   ├── ├──java/com/bihang/user/
 │   ├── ├──resources
-
+```
 ## TODO LIST
 
 * [x] [SpringCloud初体验之Eureka](https://www.cnblogs.com/bihanghang/p/10191720.html)
